@@ -6,4 +6,4 @@ A formatação dos cadernos interativos é baseada nos estilos do curso [Practic
 
 # Uso e Visualização
 
-Para visualizar o caderno sem execução local, acesse via o [nbviewer](https://nbviewer.jupyter.org/github/lsDantas/Modelo-Preditivo-de-Credito/blob/main/Modelo%20Preditivo%20de%20Crédito.ipynb).
+Para visualizar o caderno sem execução local, acesse via o [nbviewer](https://nbviewer.jupyter.org/github/lsDantas/Modelo-de-Credito/blob/main/Modelo%20Preditivo%20de%20Cr%C3%A9dito.ipynb).
